@@ -4,3 +4,4 @@
 - The train file is used to train your dataset using CNN's.
 - The test file is used to test your trained model.
 - The results provided are the accuracy of the model, Prediction, Various class validation. Use of GPU is required for intensive model training.
+- Also this has python executable files
